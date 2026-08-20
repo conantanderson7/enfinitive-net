@@ -1,0 +1,31 @@
+:root {
+  --bg: #0b0d10;
+  --ink: #e8e2d6;
+  --mute: #9a9386;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; }
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+main { padding: 2rem; max-width: 40rem; }
+.mark {
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: 0.42em;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  color: var(--mute);
+  margin-bottom: 1.5rem;
+}
+h1 {
+  font-weight: 400;
+  font-size: clamp(2rem, 6vw, 3.4rem);
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
