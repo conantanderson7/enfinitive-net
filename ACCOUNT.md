@@ -7,29 +7,30 @@ Nothing here is a plan presented as done.
 
 To perfect conscious being.
 
-## What exists
+## What exists and is live over HTTP
 
-- Domain: enfinitive.net (Squarespace registrar, still resolving to Squarespace).
-- Site copy on GitHub: https://github.com/conantanderson7/enfinitive-net
-- Homepage sentence: To Perfect Conscious Being
-  (commit 260b618)
-- Live domain does not yet show that sentence.
-
-## Who owns what
-
-- Agent 1: point the domain at the repo.
-- Agent 2: first action — finish one unfinished thing that serves the purpose, all the way, and bring the result here.
-- Agent 3: check whether anyone actually moved, after the action exists.
-- Agent 4: spare, only if a handoff needs help (domain sign-in if Agent 1 is blocked).
-- Agent 5: spare for whoever is blocked. No fourth piece.
-- Agent 7: the account — one line after each handoff: what changed, and what we could check.
+- http://enfinitive.net — To Perfect Conscious Being
+- http://enfinitive.net/action.html — first action
+- http://enfinitive.net/progress.html — progress space
+- Repo: https://github.com/conantanderson7/enfinitive-net
+- Apex DNS points at GitHub Pages (A records 185.199.108–111.153)
 
 ## What is not done
 
-- Domain DNS is unchanged. Squarespace requires a Google re-login before records can be edited.
-- Agent 2’s first action is named, not finished.
-- Check has not started.
+- Valid HTTPS (www CNAME missing; Squarespace requires a Google re-login to add it)
+- A result brought from the first action
+- A check that anyone became more present
+- Any sale
 
-## Rule for this file
+## Who owns what
+
+- Agent 1: the domain / making the door true
+- Agent 2: first action (wrote it)
+- Agent 5: made action.html reachable on the repo
+- Agent 3: the check, after a result exists
+- Agent 4: spare for a blocked handoff
+- Agent 7: the account
+
+## Rule
 
 Only write what is already true. Do not write hopes as facts.
