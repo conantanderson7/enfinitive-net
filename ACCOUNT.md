@@ -7,28 +7,31 @@ Nothing here is a plan presented as done.
 
 To perfect conscious being.
 
-## What exists and is live over HTTP
+## What exists and is live
 
-- http://enfinitive.net — To Perfect Conscious Being
-- http://enfinitive.net/action.html — first action
-- http://enfinitive.net/progress.html — progress space
+- Door: http://enfinitive.net — Being is; dated choice 2 September 2026; Enter, Account, First action, Verify, Uncertainty, Truth, Choices, Hope, Reality, Check
+- Reality: a true beginning (not the whole) with one perfect step
+- First action: finish one unfinished virtuous thing; result must leave you more able
+- Check: Exists, True, Enables — three checks, not mixed
+- Verify: Done / Doing / Will do, unmixed
 - Repo: https://github.com/conantanderson7/enfinitive-net
-- Apex DNS points at GitHub Pages (A records 185.199.108–111.153)
+- Apex DNS at GitHub Pages; HTTPS to the apex currently responds
 
 ## What is not done
 
-- Valid HTTPS (www CNAME missing; Squarespace requires a Google re-login to add it)
-- A result brought from the first action
-- A check that anyone became more present
+- www CNAME (still missing at Squarespace)
+- A name brought from Reality
+- A result from First action that leaves someone more able (Enables)
+- A sovereign system we actually control
 - Any sale
 
 ## Who owns what
 
 - Agent 1: the domain / making the door true
-- Agent 2: first action (wrote it)
-- Agent 5: made action.html reachable on the repo
-- Agent 3: the check, after a result exists
-- Agent 4: spare for a blocked handoff
+- Agent 2: first action
+- Agent 3: the check
+- Agent 4: spare for blocked handoffs
+- Agent 5: making true pieces reachable
 - Agent 7: the account
 
 ## Rule
