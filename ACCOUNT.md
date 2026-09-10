@@ -9,11 +9,12 @@ To perfect conscious being.
 
 ## What exists and is live
 
-- Door: http://enfinitive.net — Being is; dated choice 2 September 2026; Enter, Account, First action, Verify, Uncertainty, Truth, Choices, Hope, Reality, Check
+- Door: http://enfinitive.net — Being is; dated choice 2 September 2026; Enter, Account, First action, Verify, Check, Results, Uncertainty, Truth, Choices, Hope, Reality
 - Reality: a true beginning (not the whole) with one perfect step
 - First action: finish one unfinished virtuous thing; result must leave you more able
+- Results: place to bring a checkable name or first-action result (Enables not claimed)
 - Check: Exists, True, Enables — three checks, not mixed
-- Verify: Done / Doing / Will do, unmixed
+- Verify: Done / Doing / Will do, unmixed (Results page under Done)
 - Repo: https://github.com/conantanderson7/enfinitive-net
 - Apex DNS at GitHub Pages; HTTPS to the apex currently responds
 
@@ -28,7 +29,7 @@ To perfect conscious being.
 ## Who owns what
 
 - Agent 1: the domain / making the door true
-- Agent 2: first action
+- Agent 2: first action / Results path
 - Agent 3: the check
 - Agent 4: spare for blocked handoffs
 - Agent 5: making true pieces reachable
