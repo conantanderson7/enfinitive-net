@@ -5,7 +5,7 @@ export default function Home() {
       <div className="pattern-grid absolute inset-0" aria-hidden="true" />
 
       <header className="relative z-10 px-6 pt-8 sm:px-10 lg:px-14 lg:pt-10">
-        <span className="reveal block text-[13px] font-semibold uppercase tracking-[0.42em] text-[#f1eee6]/85 sm:text-sm">
+        <span className="reveal block text-base font-medium tracking-[0.34em] text-[#f1eee6]/85 sm:text-lg">
           Enfinitive
         </span>
       </header>

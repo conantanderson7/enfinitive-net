@@ -6,7 +6,7 @@ export default function NotFound() {
       <div className="pattern-grid absolute inset-0" aria-hidden="true" />
       <Link
         href="/"
-        className="reveal relative z-10 text-[13px] font-semibold uppercase tracking-[0.42em] text-[#f1eee6]/85 sm:text-sm"
+        className="reveal relative z-10 text-base font-medium tracking-[0.34em] text-[#f1eee6]/85 sm:text-lg"
       >
         Enfinitive
       </Link>
