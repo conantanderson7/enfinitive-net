@@ -20,9 +20,8 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  title: "Enfinitive — Perfecting Conscious Being",
-  description:
-    "Enfinitive is an organization devoted to perfecting conscious being through attention, integration, and embodied practice.",
+  title: "Enfinitive",
+  description: "To Perfect Conscious Being",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
