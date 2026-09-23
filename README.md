@@ -5,8 +5,8 @@ conscious being.
 
 The only wording on the site is "Enfinitive" and "To Perfect Conscious Being".
 
-Canonical public address: [enfinitive.org](https://enfinitive.org).
-`enfinitive.net` should redirect there.
+The live site for now is [enfinitive.net](https://enfinitive.net).
+`enfinitive.org` stays on Outlook mail until that cutover is done on purpose.
 
 ## Run locally
 
@@ -29,16 +29,16 @@ The site is a fully static export, written to `out/`.
 
 Use **one** live site, not two copies.
 
-| Domain | Role |
-| --- | --- |
-| `enfinitive.org` | Canonical site + existing Outlook mail |
-| `enfinitive.net` | Redirect to `https://enfinitive.org` |
+| Domain | Role now | Later |
+| --- | --- | --- |
+| `enfinitive.net` | Public homepage (GitHub Pages) | Redirect to `.org` |
+| `enfinitive.org` | Outlook mail only | Canonical homepage |
 
-Push this project to the GitHub repository that already serves Pages, then set
-Settings → Pages → Source to **GitHub Actions** and Custom domain to
-`enfinitive.org`. Enable **Enforce HTTPS**.
+Push this project to [conantanderson7/enfinitive-net](https://github.com/conantanderson7/enfinitive-net),
+then set Settings → Pages → Source to **GitHub Actions** and Custom domain to
+`enfinitive.net`. Enable **Enforce HTTPS**.
 
-`public/CNAME` is already `enfinitive.org`. The workflow in
+`public/CNAME` is `enfinitive.net`. The workflow in
 `.github/workflows/deploy.yml` publishes on every push to `main`.
 
 ### 1. Point `enfinitive.org` at GitHub Pages (GoDaddy)
